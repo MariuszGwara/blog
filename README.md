@@ -1,2 +1,2 @@
 # blog
-projekt blogu na zaliczenie
+projekt bloga na zaliczenie
